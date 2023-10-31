@@ -12,7 +12,7 @@ body {
 
 .bg {
     background-color: skyblue;
-    margin: 50px;
+    margin: 100px;
 }
 
 .container {
@@ -21,7 +21,7 @@ body {
 }
 
 .greeting, .greeting-container {
-    margin: 50px;
+    margin: 70px;
 }
 
 .greeting {
